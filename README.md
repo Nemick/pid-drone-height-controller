@@ -1,4 +1,4 @@
-# 🛸 PID Drone Height Controller
+# PID Drone Height Controller 🛸 
 
 This project demonstrates a **PID-based motor controller** for a simulated drone system using a potentiometer as a feedback sensor. It uses real-time height estimation based on trigonometric calculations and LED indicators to manage motor power and status feedback.
 
@@ -49,7 +49,6 @@ This project demonstrates a **PID-based motor controller** for a simulated drone
 pid-drone-height-controller/
 ├── pid_height_controller.ino         # Main Arduino sketch
 ├── serial_output_sample.txt          # Sample serial log
-├── wiring_diagram.png (optional)     # Add your circuit diagram
 └── README.md                         # This file
 ```
 
