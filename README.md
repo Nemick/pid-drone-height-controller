@@ -81,6 +81,11 @@ Maximum error encountered: 0.430 m
 Error after correction: 0.000 m
 ```
 
+## 🎥 Simulation Video
+
+Watch the live simulation demo:
+👉 [Click here to view on Google Drive](https://drive.google.com/file/d/175ymC1blj4Ponb_DDwkFx8deSn1rvoea/view?usp=sharing)
+
 ---
 
 ## 🧪 Tuning Parameters
