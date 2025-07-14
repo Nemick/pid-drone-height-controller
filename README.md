@@ -55,7 +55,6 @@ This project demonstrates a **PID-based motor controller** for a simulated drone
 ```
 pid-drone-height-controller/
 ├── multi_motor_pid_height_controller.ino   # Main Arduino sketch
-├── Simulation Video.mp4                    # Simulation demo
 ├── SERIAL MONITOR DATA.pdf                 # Sample serial output log
 ├── Flowchart.pdf                           # Project logic flowchart
 ├── Wokwi source file.zip                   # Virtual simulation environment
